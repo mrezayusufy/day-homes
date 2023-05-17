@@ -3,3 +3,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  /* outline: 1px solid limegreen !important; */
+  /* background: rgba(2, 255, 48, 0.397); */
+}
